@@ -7,3 +7,5 @@ export default defineConfig({
   plugins: [react()],
   base: "/buddha/", // YOUR REPO NAME HERE
 });
+
+
